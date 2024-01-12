@@ -1,0 +1,36 @@
+.loginpage {
+    border-radius: 20px;
+    border-style:double;
+    text-align: center;
+    align-items: center;
+height: rem;
+
+width: 25%;
+
+}
+
+
+.enter {
+    font-size: small;
+    height: 2rem;
+    width: 20rem;
+    border-style: double;
+
+   border-radius: 50px;
+}
+
+.button {
+width: 15rem;
+height: 3rem;
+background-color: rgb(180, 180, 240);
+border-radius: 25px;
+
+
+}
+
+.heading {
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+}
+
